@@ -1,0 +1,45 @@
+C:\Dsque D\COURS L3GL\C _CHARP\AppsGestionStock\WcfGestionStock\bin\WcfGestionStock.dll.config
+C:\Dsque D\COURS L3GL\C _CHARP\AppsGestionStock\WcfGestionStock\bin\WcfGestionStock.dll
+C:\Dsque D\COURS L3GL\C _CHARP\AppsGestionStock\WcfGestionStock\bin\WcfGestionStock.pdb
+C:\Dsque D\COURS L3GL\C _CHARP\AppsGestionStock\WcfGestionStock\bin\EntityFramework.dll
+C:\Dsque D\COURS L3GL\C _CHARP\AppsGestionStock\WcfGestionStock\bin\EntityFramework.xml
+C:\Dsque D\COURS L3GL\C _CHARP\AppsGestionStock\WcfGestionStock\bin\fr\EntityFramework.resources.dll
+C:\Dsque D\COURS L3GL\C _CHARP\AppsGestionStock\WcfGestionStock\obj\Debug\WcfGestionStock.csproj.AssemblyReference.cache
+C:\Dsque D\COURS L3GL\C _CHARP\AppsGestionStock\WcfGestionStock\obj\Debug\WcfGestionStock.csproj.CoreCompileInputs.cache
+C:\Dsque D\COURS L3GL\C _CHARP\AppsGestionStock\WcfGestionStock\obj\Debug\WcfGestionStock.csproj.CopyComplete
+C:\Dsque D\COURS L3GL\C _CHARP\AppsGestionStock\WcfGestionStock\obj\Debug\WcfGestionStock.dll
+C:\Dsque D\COURS L3GL\C _CHARP\AppsGestionStock\WcfGestionStock\obj\Debug\WcfGestionStock.pdb
+C:\Users\Utilisateur\Desktop\AppsGestionStock\WcfGestionStock\bin\WcfGestionStock.dll.config
+C:\Users\Utilisateur\Desktop\AppsGestionStock\WcfGestionStock\bin\WcfGestionStock.dll
+C:\Users\Utilisateur\Desktop\AppsGestionStock\WcfGestionStock\bin\WcfGestionStock.pdb
+C:\Users\Utilisateur\Desktop\AppsGestionStock\WcfGestionStock\bin\EntityFramework.dll
+C:\Users\Utilisateur\Desktop\AppsGestionStock\WcfGestionStock\bin\EntityFramework.xml
+C:\Users\Utilisateur\Desktop\AppsGestionStock\WcfGestionStock\bin\fr\EntityFramework.resources.dll
+C:\Users\Utilisateur\Desktop\AppsGestionStock\WcfGestionStock\obj\Debug\WcfGestionStock.csproj.AssemblyReference.cache
+C:\Users\Utilisateur\Desktop\AppsGestionStock\WcfGestionStock\obj\Debug\WcfGestionStock.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\Desktop\AppsGestionStock\WcfGestionStock\obj\Debug\WcfGestionStock.csproj.CopyComplete
+C:\Users\Utilisateur\Desktop\AppsGestionStock\WcfGestionStock\obj\Debug\WcfGestionStock.dll
+C:\Users\Utilisateur\Desktop\AppsGestionStock\WcfGestionStock\obj\Debug\WcfGestionStock.pdb
+C:\Users\Hawa Sy\Desktop\Lpgl2023\C#\AppsGestionStock\WcfGestionStock\bin\WcfGestionStock.dll.config
+C:\Users\Hawa Sy\Desktop\Lpgl2023\C#\AppsGestionStock\WcfGestionStock\bin\WcfGestionStock.dll
+C:\Users\Hawa Sy\Desktop\Lpgl2023\C#\AppsGestionStock\WcfGestionStock\bin\WcfGestionStock.pdb
+C:\Users\Hawa Sy\Desktop\Lpgl2023\C#\AppsGestionStock\WcfGestionStock\bin\EntityFramework.dll
+C:\Users\Hawa Sy\Desktop\Lpgl2023\C#\AppsGestionStock\WcfGestionStock\bin\EntityFramework.xml
+C:\Users\Hawa Sy\Desktop\Lpgl2023\C#\AppsGestionStock\WcfGestionStock\bin\fr\EntityFramework.resources.dll
+C:\Users\Hawa Sy\Desktop\Lpgl2023\C#\AppsGestionStock\WcfGestionStock\obj\Debug\WcfGestionStock.csproj.AssemblyReference.cache
+C:\Users\Hawa Sy\Desktop\Lpgl2023\C#\AppsGestionStock\WcfGestionStock\obj\Debug\WcfGestionStock.csproj.CoreCompileInputs.cache
+C:\Users\Hawa Sy\Desktop\Lpgl2023\C#\AppsGestionStock\WcfGestionStock\obj\Debug\WcfGestionStock.csproj.CopyComplete
+C:\Users\Hawa Sy\Desktop\Lpgl2023\C#\AppsGestionStock\WcfGestionStock\obj\Debug\WcfGestionStock.dll
+C:\Users\Hawa Sy\Desktop\Lpgl2023\C#\AppsGestionStock\WcfGestionStock\obj\Debug\WcfGestionStock.pdb
+C:\Users\Utilisateur\Documents\AppsGestionStock\WcfGestionStock\bin\WcfGestionStock.dll.config
+C:\Users\Utilisateur\Documents\AppsGestionStock\WcfGestionStock\bin\WcfGestionStock.dll
+C:\Users\Utilisateur\Documents\AppsGestionStock\WcfGestionStock\bin\WcfGestionStock.pdb
+C:\Users\Utilisateur\Documents\AppsGestionStock\WcfGestionStock\bin\EntityFramework.dll
+C:\Users\Utilisateur\Documents\AppsGestionStock\WcfGestionStock\bin\EntityFramework.xml
+C:\Users\Utilisateur\Documents\AppsGestionStock\WcfGestionStock\obj\Debug\WcfGestionStock.csproj.AssemblyReference.cache
+C:\Users\Utilisateur\Documents\AppsGestionStock\WcfGestionStock\obj\Debug\WcfGestionStock.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\Documents\AppsGestionStock\WcfGestionStock\obj\Debug\WcfGestionStock.csproj.CopyComplete
+C:\Users\Utilisateur\Documents\AppsGestionStock\WcfGestionStock\obj\Debug\WcfGestionStock.dll
+C:\Users\Utilisateur\Documents\AppsGestionStock\WcfGestionStock\obj\Debug\WcfGestionStock.pdb
+C:\Users\Utilisateur\Documents\AppsGestionStock\WcfGestionStock\bin\EntityFramework.SqlServer.dll
+C:\Users\Utilisateur\Documents\AppsGestionStock\WcfGestionStock\bin\EntityFramework.SqlServer.xml

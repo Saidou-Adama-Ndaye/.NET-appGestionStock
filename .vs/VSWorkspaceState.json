@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AppsGestionStock",
+    "\\WcfGestionStock",
+    "\\WcfGestionStock\\Model",
+    "\\WebApiStock",
+    "\\WebApiStock\\App_Start",
+    "\\WebApiStock\\Controllers"
+  ],
+  "SelectedNode": "\\WcfGestionStock\\Model\\examenContext.cs",
+  "PreviewInSolutionExplorer": false
+}
